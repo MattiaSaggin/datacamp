@@ -4,9 +4,9 @@ In the late 90s Lego was only able to survive due to a successful internal brand
 Although Star Wars was critical to the survival of the brand, Lego has since introduced a wide variety of licensed sets over subsequent years.
 Two questions are as follows:
 
-1. What percentage of all licensed sets ever released were Star Wars themed? Save your answer as a variable the_force in the form of an integer (e.g. 25).
+1. What percentage of all licensed sets ever released were Star Wars themed? Save your answer as a variable (called "the_force") in the form of an integer (e.g. 25).
 2. In which year was Star Wars not the most popular licensed theme (in terms of number of sets released that year)? 
-   Save your answer as a variable new_era in the form of an integer (e.g. 2012).
+   Save your answer as a variable (called "new_era") in the form of an integer (e.g. 2012).
 
 Datasets description:
 
